@@ -1,0 +1,4 @@
+peewee
+PyMySQL
+shapely
+pymongo
